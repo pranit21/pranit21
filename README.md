@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @pranit21
+# Hi there, I’m [Pranit More](https://morepranit.com/) 👋
+*Technical Architect* 🧑‍💻
 - 👀 I’m interested in Fullstack Development, Cloud Development in GCP, AWS
 - 🌱 I’m currently learning Cloud Technologies
 - 📫 You can reach out to me on morepranit@gmail.com
